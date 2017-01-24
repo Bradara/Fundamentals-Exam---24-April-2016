@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfNames", "GameOfNames\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Strawberry", "3.Strawberry\3.Strawberry.csproj", "{5C06D5E5-8DF9-45EE-B84B-CD7BA79656BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayModifier", "ArrayModifier\ArrayModifier.csproj", "{F78A4271-BC9E-4F97-8523-CF77FCF55E16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyTargetedCell", "MultiplyTargetedCell\MultiplyTargetedCell.csproj", "{AEE9B46B-FD12-4777-872B-019C8A6AC559}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5C06D5E5-8DF9-45EE-B84B-CD7BA79656BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C06D5E5-8DF9-45EE-B84B-CD7BA79656BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C06D5E5-8DF9-45EE-B84B-CD7BA79656BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78A4271-BC9E-4F97-8523-CF77FCF55E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78A4271-BC9E-4F97-8523-CF77FCF55E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78A4271-BC9E-4F97-8523-CF77FCF55E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78A4271-BC9E-4F97-8523-CF77FCF55E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE9B46B-FD12-4777-872B-019C8A6AC559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE9B46B-FD12-4777-872B-019C8A6AC559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE9B46B-FD12-4777-872B-019C8A6AC559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE9B46B-FD12-4777-872B-019C8A6AC559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

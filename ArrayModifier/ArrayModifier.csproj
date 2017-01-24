@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C06D5E5-8DF9-45EE-B84B-CD7BA79656BC}</ProjectGuid>
+    <ProjectGuid>{F78A4271-BC9E-4F97-8523-CF77FCF55E16}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3.Strawberry</RootNamespace>
-    <AssemblyName>3.Strawberry</AssemblyName>
+    <RootNamespace>ArrayModifier</RootNamespace>
+    <AssemblyName>ArrayModifier</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Strawberry.cs" />
+    <Compile Include="ArrayModifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
